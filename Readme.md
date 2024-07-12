@@ -22,6 +22,7 @@ By using the commonly used bottom-up-attention visual features, a single MCAN mo
 The ViVQA dataset is a large-scale Vietnamese Visual Question Answering dataset. It includes more than 10000 images with corresponding questions and answers in Vietnamese, covering various topics and image types. This dataset supports the development of VQA systems for the Vietnamese language, advancing computer vision and natural language processing research.
 
 [Link to paper](https://aclanthology.org/2021.paclic-1.72.pdf)
+
 [Link to dataset](https://www.kaggle.com/datasets/nguyenphongocd/vivqa-windy/data)
 
 ## 4.Model architecture
@@ -34,7 +35,9 @@ This repository corresponds to the PyTorch implementation of the MCAN [paper](ht
 Here is some demos from my application
 
 ![First](Stuff/Demo1.jpg)
+
 ![Second](Stuff/Demo2.jpg)
+
 ![Third](Stuff/Demo3.jpg)
 
 
